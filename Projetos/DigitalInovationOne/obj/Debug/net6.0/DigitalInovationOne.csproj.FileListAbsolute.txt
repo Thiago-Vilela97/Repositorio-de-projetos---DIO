@@ -1,0 +1,15 @@
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.exe
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.deps.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.runtimeconfig.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\bin\Debug\net6.0\ref\DigitalInovationOne.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\bin\Debug\net6.0\DigitalInovationOne.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\ref\DigitalInovationOne.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\DigitalInovationOne\obj\Debug\net6.0\DigitalInovationOne.genruntimeconfig.cache
