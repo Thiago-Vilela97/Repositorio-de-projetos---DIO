@@ -1,0 +1,15 @@
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\bin\Debug\net6.0\ref\Demo.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
