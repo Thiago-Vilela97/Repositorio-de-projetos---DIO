@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SU/5YPJp9daRCQ/brQC66SSdNwKFk+pyGPM6Gv8FPQmBMcb1pr7T/Lw//NiT1SSZqyq8EEPZkJ7Pm0QxK7eHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\Dictionary\\Dictionary\\Dictionary\\Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiadolfov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thiadolfov\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\thiadolfov\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\thiadolfov\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\thiadolfov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

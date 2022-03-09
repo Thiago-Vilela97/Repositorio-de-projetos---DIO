@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmZKkqzeCuIckzJ0QwDF5veQdjCz/ZNiiZWfUNT0uqO/0aIyDA2PHY3WnT5OgCcNi7DLoVt6PuF/mEQ5PV9HzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\Queue_FILA\\Fila\\Fila\\Fila.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiadolfov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

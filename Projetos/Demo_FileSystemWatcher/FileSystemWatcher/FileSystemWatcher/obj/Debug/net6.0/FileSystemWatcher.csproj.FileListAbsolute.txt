@@ -1,0 +1,15 @@
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Demo_FileSystemWatcher\FileSystemWatcher\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache

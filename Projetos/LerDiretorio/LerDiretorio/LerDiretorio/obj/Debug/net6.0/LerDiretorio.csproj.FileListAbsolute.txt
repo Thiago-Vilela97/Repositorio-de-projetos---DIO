@@ -1,0 +1,14 @@
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\bin\Debug\net6.0\LerDiretorio.exe
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\bin\Debug\net6.0\LerDiretorio.deps.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\bin\Debug\net6.0\LerDiretorio.runtimeconfig.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\bin\Debug\net6.0\LerDiretorio.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\bin\Debug\net6.0\ref\LerDiretorio.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\bin\Debug\net6.0\LerDiretorio.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.AssemblyInfoInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.AssemblyInfo.cs
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.csproj.CoreCompileInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\ref\LerDiretorio.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\LerDiretorio\LerDiretorio\LerDiretorio\obj\Debug\net6.0\LerDiretorio.genruntimeconfig.cache

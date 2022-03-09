@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b880c0b7-9319-42e0-b4ea-0dd2ff10629a": {
+      "ProjectGuid": "b880c0b7-9319-42e0-b4ea-0dd2ff10629a",
+      "DisplayName": "FileSystemWatcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

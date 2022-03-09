@@ -1,0 +1,16 @@
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\Fila.exe
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\Fila.deps.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\Fila.runtimeconfig.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\Fila.runtimeconfig.dev.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\Fila.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\ref\Fila.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\bin\Debug\net5.0\Fila.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.csproj.AssemblyReference.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.AssemblyInfoInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.AssemblyInfo.cs
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\ref\Fila.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Queue_FILA\Fila\Fila\obj\Debug\net5.0\Fila.genruntimeconfig.cache

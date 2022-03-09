@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c65d407f-44b1-4adb-937b-06eee9293d18": {
+      "ProjectGuid": "c65d407f-44b1-4adb-937b-06eee9293d18",
+      "DisplayName": "CursoMVC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e3a52acc-6085-4713-89b3-367a63277046": {
+      "ProjectGuid": "e3a52acc-6085-4713-89b3-367a63277046",
+      "DisplayName": "CursoAPI",
+      "ColorIndex": 1
+    },
+    "b8ebcaf8-b536-4340-b6b4-3cf5acfd7b58": {
+      "ProjectGuid": "b8ebcaf8-b536-4340-b6b4-3cf5acfd7b58",
+      "DisplayName": "CursoTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{C65D407F-44B1-4ADB-937B-06EEE9293D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{E3A52ACC-6085-4713-89B3-367A63277046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{B8EBCAF8-B536-4340-B6B4-3CF5ACFD7B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65D407F-44B1-4ADB-937B-06EEE9293D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65D407F-44B1-4ADB-937B-06EEE9293D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65D407F-44B1-4ADB-937B-06EEE9293D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65D407F-44B1-4ADB-937B-06EEE9293D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A52ACC-6085-4713-89B3-367A63277046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A52ACC-6085-4713-89B3-367A63277046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A52ACC-6085-4713-89B3-367A63277046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A52ACC-6085-4713-89B3-367A63277046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EBCAF8-B536-4340-B6B4-3CF5ACFD7B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EBCAF8-B536-4340-B6B4-3CF5ACFD7B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EBCAF8-B536-4340-B6B4-3CF5ACFD7B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EBCAF8-B536-4340-B6B4-3CF5ACFD7B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C3C51B-8B36-4346-AC6F-C8377BBC0171}
+	EndGlobalSection
+EndGlobal

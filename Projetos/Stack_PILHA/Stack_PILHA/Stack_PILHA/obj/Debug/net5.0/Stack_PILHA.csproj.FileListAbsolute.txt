@@ -1,0 +1,15 @@
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\Stack_PILHA.exe
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\Stack_PILHA.deps.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\Stack_PILHA.runtimeconfig.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\Stack_PILHA.runtimeconfig.dev.json
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\Stack_PILHA.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\ref\Stack_PILHA.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\bin\Debug\net5.0\Stack_PILHA.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.AssemblyInfoInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.AssemblyInfo.cs
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.csproj.CoreCompileInputs.cache
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\ref\Stack_PILHA.dll
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.pdb
+C:\Users\thiadolfov\Desktop\DIO\Repositorio-de-projetos---DIO\Projetos\Stack_PILHA\Stack_PILHA\Stack_PILHA\obj\Debug\net5.0\Stack_PILHA.genruntimeconfig.cache
