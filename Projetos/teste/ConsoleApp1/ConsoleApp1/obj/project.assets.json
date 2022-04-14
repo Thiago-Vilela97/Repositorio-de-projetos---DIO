@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\DIOProjectSeries\\DIOProjectSeries\\DIOProjectSeries.csproj",
-      "projectName": "DIOProjectSeries",
-      "projectPath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\DIOProjectSeries\\DIOProjectSeries\\DIOProjectSeries.csproj",
+      "projectUniqueName": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\teste\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\teste\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\thiadolfov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\DIOProjectSeries\\DIOProjectSeries\\obj\\",
+      "outputPath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\teste\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

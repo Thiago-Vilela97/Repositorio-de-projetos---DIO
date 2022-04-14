@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t7Gb4CDSq9kdY6Z6LtnNcGTiSI+3Y8FBi6+wVMcS8B9Lz3eM14sqBVeCgq/Tvvyg3eB9Xz9H4J0MW9mh/3Imqw==",
+  "dgSpecHash": "SmGVBt9l48MNXy2igJvV1IMwlBb05WQF+RfOrDzEpiUiSWF/CSu2osDBECSGu+5eA9Mu6IPhwYcqa61nl/uWHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\thiadolfov\\Desktop\\DIO\\Repositorio-de-projetos---DIO\\Projetos\\DIOProjectSeries\\DIOProjectSeries\\DIOProjectSeries.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\thiadolfov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
